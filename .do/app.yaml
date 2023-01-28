@@ -1,0 +1,7 @@
+name: soketi-do
+services:
+- name: soketi
+  git:
+    repo_clone_url: https://github.com/soketi/soketi.git
+    branch: 1.x
+  dockerfile_path: Dockerfile.debian
