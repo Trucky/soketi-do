@@ -4,5 +4,5 @@ spec:
  - name: soketi
    git:
      branch: 1.x
-     repo_clone_url: https://github.com/soketi/soketi.git
+     repo_clone_url: https://github.com/Trucky/soketi-do.git
   dockerfile_path: Dockerfile.debian
