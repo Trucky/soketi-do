@@ -1,0 +1,1 @@
+FROM quay.io/soketi/soketi:latest-16-debian AS soketi
